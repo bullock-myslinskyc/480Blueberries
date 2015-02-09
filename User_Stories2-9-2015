@@ -1,0 +1,48 @@
+Jordan Violet
+Jacob McGowan
+Darrell Thobe
+Cherie Myslinsky
+The Blueberries
+2-9-2015
+User Stories
+1.	Title: Org Leaders add event to organization
+    Description: A student organization leader can add events such as meetings or student activities to an organization. 
+2.	Title: Org Leaders modify event of organization
+    Description: A student organization leader can modify an existing event. He or she can change information such as time or date. 
+3.	Title: Org Leaders remove/cancel event of organization
+    Description: A student organization leader can remove or cancel an event. 
+4.	Title: Org Leaders view events
+    Description: A student organization leader can view existing events.
+5.	Title: Org Leaders add student to organization
+    Description: A student organization can add a new student to an organization.
+6.	Title: Org Leaders remove member from organization
+    Description: A student organization can remove a member from an organization.
+7.	Title: Org Leaders change member contact information
+    Description: A student organization leader can change a member's contact information.
+8.	Title: Org Leaders view organization members
+    Description: A student organization leader can view contact information of the members.
+9.	Title: Org Leaders email announcements to members
+    Description: A student organization leader can email announcments to members. 
+10.	Title: Org Leaders view attendance at events
+    Description: A student organization leader can view attendance at an event.
+11. Title: Org Leaders take attendance/check in student members
+    Description: A student organization leader can take member attendance and check in students at events.
+12. Title: Org Leaders email attendance to the organization adviser.
+    Description: A student organization leader can email event attendance to the organization adviser.
+13.	Title: Org Leaders flag absent members
+	  Description: A student organization leader can flag members who are absent from events.
+14. Title: Adviser view events
+	  Description: An adviser can view events. 
+15.	Title: Adviser add organization
+	  Description: An adviser can add an organization.
+16.	Title: Adviser remove organization
+	  Description: An adviser can remove an organization.
+17. Title: Adviser produce transcript of student activities
+	  Description: An adviser can produce a transcript of student activities of a member.
+18.	Title: Adviser import activity from excel
+	  Description: An adviser can import attendance activity from excel.
+19.	Title: Adviser export report to excel
+	  Description: An adviser can export attendance activity to excel.
+20.	Title: Student members check in (card swipe)
+	  Description: A student member of an organization can check in at an event with a card swipe. 
+
